@@ -28,6 +28,7 @@ I specialize in developing technological solutions, with a focus on creating sof
 - ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) SQL Server
 - ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white) Firebase
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) MongoDB
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) PostgreSQL  
 
 ## 🚀 Current projects and work
 I am currently developing a system for a connectivity and radiofrequency company, applying my skills in web development, databases, and object-oriented programming.

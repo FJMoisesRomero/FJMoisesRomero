@@ -1,6 +1,6 @@
 ![Banner](image.png)
 
-# Hello, I'm Franco Moises Romero! 👋
+# Hello, I'm Franco Moises! 👋
 
 I'm a final-year student at the Catholic University of Salta, Argentina. I've been programming since I was 15, and I am passionate about technology and software development. Currently, I'm solo developing a system for a connectivity and radiofrequency company. 
 

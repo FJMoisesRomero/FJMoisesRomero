@@ -31,7 +31,7 @@ I specialize in developing technological solutions, with a focus on creating sof
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) PostgreSQL  
 
 ## 🚀 Current projects and work
-I am currently developing a system individually for a connectivity and radiofrequency company, applying my skills in web development, databases, and object-oriented programming.
+I am currently solo developing a system for a connectivity and radiofrequency company, applying my skills in web development, databases, and object-oriented programming.
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="images/2.png" alt="captura2" style="width: 20%; height: auto;">
   <img src="images/3.png" alt="captura3" style="width: 20%; height: auto;">

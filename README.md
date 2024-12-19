@@ -33,18 +33,18 @@ I specialize in developing technological solutions, with a focus on creating sof
 ## 🚀 Current projects and work
 I am currently developing a system individually for a connectivity and radiofrequency company, applying my skills in web development, databases, and object-oriented programming.
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="images/1.png" alt="captura1" style="width: 25%; height: auto;">
-  <img src="images/2.png" alt="captura2" style="width: 25%; height: auto;">
-  <img src="images/3.png" alt="captura3" style="width: 25%; height: auto;">
-  <img src="images/4.png" alt="captura4" style="width: 25%; height: auto;">
-  <img src="images/5.png" alt="captura5" style="width: 25%; height: auto;">
-  <img src="images/6.png" alt="captura6" style="width: 25%; height: auto;">
-  <img src="images/7.png" alt="captura7" style="width: 25%; height: auto;">
-  <img src="images/8.png" alt="captura8" style="width: 25%; height: auto;">
-  <img src="images/9.png" alt="captura9" style="width: 25%; height: auto;">
-  <img src="images/10.png" alt="captura10" style="width: 25%; height: auto;">
-  <img src="images/11.png" alt="captura11" style="width: 25%; height: auto;">
-  <img src="images/12.png" alt="captura12" style="width: 25%; height: auto;">
+  <img src="images/2.png" alt="captura2" style="width: 20%; height: auto;">
+  <img src="images/3.png" alt="captura3" style="width: 20%; height: auto;">
+  <img src="images/4.png" alt="captura4" style="width: 20%; height: auto;">
+  <img src="images/5.png" alt="captura5" style="width: 20%; height: auto;">
+  <img src="images/6.png" alt="captura6" style="width: 20%; height: auto;">
+  <img src="images/7.png" alt="captura7" style="width: 20%; height: auto;">
+  <img src="images/8.png" alt="captura8" style="width: 20%; height: auto;">
+  <img src="images/9.png" alt="captura9" style="width: 20%; height: auto;">
+  <img src="images/10.png" alt="captura10" style="width: 20%; height: auto;">
+  <img src="images/11.png" alt="captura11" style="width: 20%; height: auto;">
+  <img src="images/12.png" alt="captura12" style="width: 20%; height: auto;">
+  <img src="images/12.png" alt="captura13" style="width: 20%; height: auto;">
 </div>
 
 ## 💬 Let's connect

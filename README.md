@@ -1,4 +1,4 @@
-![Banner](images/banner.jpg)
+![Banner](image.png)
 
 # Hello, I'm Franco Moises Romero! 👋
 

@@ -2,7 +2,9 @@
 
 # Hello, I'm Franco Moises Romero! 👋
 
-I'm a final-year student at the Universidad Católica de Salta, Argentina. I've been programming since I was 15, and I am passionate about technology and software development. Currently, I'm working on a system for a connectivity and radiofrequency company.
+I'm a final-year student at the Universidad Católica de Salta, Argentina. I've been programming since I was 15, and I am passionate about technology and software development. Currently, I'm working on a system for a connectivity and radiofrequency company. 
+
+I am looking forward to new professional experiences that allow me to enrich my knowledge and put my skills into practice in real-world scenarios.
 
 ## 📚 My studies and career
 I specialize in developing technological solutions, with a focus on creating software that solves real-world problems. Throughout my career, I've worked on projects that use multiple technologies and agile methodologies such as Scrum and Kanban.
@@ -31,17 +33,20 @@ I specialize in developing technological solutions, with a focus on creating sof
 I am currently developing a system for a connectivity and radiofrequency company, applying my skills in web development, databases, and object-oriented programming.
 
 ## 💬 Let's connect
-If you'd like to collaborate or learn more about my projects, feel free to contact me or follow me on GitHub. I'm always eager to take on new challenges!
+If you'd like to collaborate or learn more about my projects, feel free to contact me or follow me on GitHub. I'm always eager to take on new challenges and expand my knowledge through new work experiences!
 
 ### My networks:
 - [LinkedIn](https://www.linkedin.com/in/franco-julián-moisés-romero-717060279/)
 
+---
 
 ![Banner](images/banner.jpg)
 
 # ¡Hola, soy Franco Moises Romero! 👋
 
 Soy estudiante de último año en la Universidad Católica de Salta, Argentina. Programo desde los 15 años y me apasiona la tecnología y el desarrollo de software. Actualmente, estoy trabajando en el desarrollo de un sistema para una empresa de conectividad y radiofrecuencia.
+
+Estoy buscando nuevas experiencias laborales que me permitan enriquecer mis conocimientos y poner en práctica mis habilidades en escenarios del mundo real.
 
 ## 📚 Mis estudios y carrera
 Me especializo en el desarrollo de soluciones tecnológicas, con un enfoque en crear software que resuelva problemas reales. A lo largo de mi carrera, he trabajado en proyectos que utilizan múltiples tecnologías y metodologías ágiles como Scrum y Kanban.
@@ -70,8 +75,7 @@ Me especializo en el desarrollo de soluciones tecnológicas, con un enfoque en c
 Actualmente, estoy desarrollando un sistema para una empresa de conectividad y radiofrecuencia, aplicando mis habilidades en desarrollo web, bases de datos y programación orientada a objetos.
 
 ## 💬 Conectemos
-Si deseas colaborar o aprender más sobre mis proyectos, no dudes en contactarme o seguirme en GitHub. ¡Estoy siempre dispuesto a trabajar en nuevos desafíos!
+Si deseas colaborar o aprender más sobre mis proyectos, no dudes en contactarme o seguirme en GitHub. ¡Estoy siempre dispuesto a trabajar en nuevos desafíos y enriquecerme con nuevas experiencias laborales!
 
 ### Mis redes:
 - [LinkedIn](https://www.linkedin.com/in/franco-julián-moisés-romero-717060279/)
-

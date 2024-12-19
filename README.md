@@ -2,7 +2,7 @@
 
 # Hello, I'm Franco Moises Romero! 👋
 
-I'm a final-year student at the Universidad Católica de Salta, Argentina. I've been programming since I was 15, and I am passionate about technology and software development. Currently, I'm working on a system for a connectivity and radiofrequency company. 
+I'm a final-year student at the Catholic University of Salta, Argentina. I've been programming since I was 15, and I am passionate about technology and software development. Currently, I'm working on a system for a connectivity and radiofrequency company. 
 
 I am looking forward to new professional experiences that allow me to enrich my knowledge and put my skills into practice in real-world scenarios.
 

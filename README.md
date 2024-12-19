@@ -44,7 +44,7 @@ I am currently developing a system individually for a connectivity and radiofreq
   <img src="images/10.png" alt="captura10" style="width: 20%; height: auto;">
   <img src="images/11.png" alt="captura11" style="width: 20%; height: auto;">
   <img src="images/12.png" alt="captura12" style="width: 20%; height: auto;">
-  <img src="images/12.png" alt="captura13" style="width: 20%; height: auto;">
+  <img src="images/13.png" alt="captura13" style="width: 20%; height: auto;">
 </div>
 
 ## 💬 Let's connect

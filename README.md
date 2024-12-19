@@ -47,6 +47,8 @@ I am currently developing a system individually for a connectivity and radiofreq
   <img src="images/13.png" alt="captura13" style="width: 20%; height: auto;">
 </div>
 
+## You can learn more about this project in the following repository:
+https://github.com/FJMoisesRomero/Network-assistance-management-system
 ## 💬 Let's connect
 If you'd like to collaborate or learn more about my projects, feel free to contact me or follow me on GitHub. I'm always eager to take on new challenges and expand my knowledge through new work experiences!
 

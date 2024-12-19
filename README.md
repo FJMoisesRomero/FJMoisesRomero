@@ -2,7 +2,7 @@
 
 # Hello, I'm Franco Moises Romero! 👋
 
-I'm a final-year student at the Catholic University of Salta, Argentina. I've been programming since I was 15, and I am passionate about technology and software development. Currently, I'm working on a system for a connectivity and radiofrequency company. 
+I'm a final-year student at the Catholic University of Salta, Argentina. I've been programming since I was 15, and I am passionate about technology and software development. Currently, I'm solo developing a system for a connectivity and radiofrequency company. 
 
 I am looking forward to new professional experiences that allow me to enrich my knowledge and put my skills into practice in real-world scenarios.
 
@@ -31,7 +31,7 @@ I specialize in developing technological solutions, with a focus on creating sof
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) PostgreSQL  
 
 ## 🚀 Current projects and work
-I am currently developing a system for a connectivity and radiofrequency company, applying my skills in web development, databases, and object-oriented programming.
+I am currently developing a system individually for a connectivity and radiofrequency company, applying my skills in web development, databases, and object-oriented programming.
 
 ## 💬 Let's connect
 If you'd like to collaborate or learn more about my projects, feel free to contact me or follow me on GitHub. I'm always eager to take on new challenges and expand my knowledge through new work experiences!

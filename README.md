@@ -40,6 +40,6 @@ If you'd like to collaborate or learn more about my projects, feel free to conta
 
 ---
 
-![Banner](images/banner.jpg)
+
 
 

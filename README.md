@@ -2,7 +2,7 @@
 
 # Hello, I'm Franco Moises! 👋
 
-I'm a final-year student at the Catholic University of Salta, Argentina. I've been programming since I was 15, and I am passionate about technology and software development. Currently, I'm solo developing a system for a connectivity and radiofrequency company. 
+I'm a final-year Software Engineering student at the Catholic University of Salta, Argentina. I've been programming since I was 15, and I am passionate about technology and software development. Currently, I'm solo developing a system for a connectivity and radiofrequency company. 
 I am looking forward to new professional experiences that allow me to enrich my knowledge and put my skills into practice in real-world scenarios. I would love to be part of your development team and contribute to bringing your software products to life. I believe I would be a valuable addition to your team, bringing both technical expertise and a strong passion for creating impactful solutions.
 
 ## 📚 My studies and career
